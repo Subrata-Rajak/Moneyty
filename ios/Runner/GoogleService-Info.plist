@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBGEgy5lBgBiZzreWUPxI6qVTC1y9LENT0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>990865104114</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>andriodninja.prod.moneyty.moneyty</string>
+	<key>PROJECT_ID</key>
+	<string>moneyty-3e4e4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>moneyty-3e4e4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:990865104114:ios:399fd0b9c75729fd60c46b</string>
+</dict>
+</plist>

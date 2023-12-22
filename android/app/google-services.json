@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990865104114",
+    "project_id": "moneyty-3e4e4",
+    "storage_bucket": "moneyty-3e4e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990865104114:android:fedce6c4d1a77c7a60c46b",
+        "android_client_info": {
+          "package_name": "andriodninja.prod.moneyty.moneyty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSm981Yk57DNSq958m2_tNwTtOAIcjzhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
