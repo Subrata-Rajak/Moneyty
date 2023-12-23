@@ -5,4 +5,5 @@ class AppStrings {
   final String onboardingText = "Save more by\nspending smarter";
   final String onboardingSubText =
       "One app for every\nkind of money monitoring";
+  final String continueButtonText = "Continue";
 }

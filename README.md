@@ -30,6 +30,7 @@ An intuitive expense tracker app built with <span style="color: blue;">**Flutter
 <!-- ![App Screenshot 1](assets/readme/onboarding_screen.png)
 *Onboarding Screen* -->
 
+<img src="assets/readme/splash_screen.png" alt="Onboarding Screen" style="height: 200px;">
 <img src="assets/readme/onboarding_screen.png" alt="Onboarding Screen" style="height: 200px;">
 
 **More designs are coming**
