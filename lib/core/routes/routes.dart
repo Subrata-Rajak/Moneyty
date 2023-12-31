@@ -1,7 +1,8 @@
 import 'package:go_router/go_router.dart';
 import 'package:moneyty/core/routes/route_names.dart';
 import 'package:moneyty/core/routes/route_paths.dart';
-import 'package:moneyty/features/auth/presentation/login_screen.dart';
+import 'package:moneyty/features/auth/presentation/views/login_screen.dart';
+import 'package:moneyty/features/auth/presentation/views/register_screen.dart';
 import 'package:moneyty/features/onboarding/presentation/views/onboard_screen.dart';
 import 'package:moneyty/splash_screen.dart';
 
@@ -31,7 +32,14 @@ class AppRoutes {
           return const SplashScreen();
         },
       ),
+      GoRoute(
+        path: AppRoutePaths.instance.registerScreenPath,
+        name: AppRouteNames.instance.registerScreenRouteName,
+        builder: (context, state) {
+          return const RegisterScreen();
+        },
+      ),
     ],
-    initialLocation: AppRoutePaths.instance.splashScreenRoutePath,
+    initialLocation: AppRoutePaths.instance.registerScreenPath,
   );
 }

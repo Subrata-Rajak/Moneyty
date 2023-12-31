@@ -9,4 +9,6 @@ class AppColors {
   final white = const Color(0xffffffff);
   final black = const Color(0xff000000);
   final darkPurple = const Color(0xff501DFF);
+  final grey = const Color(0xff8F8F8F);
+  final red = const Color(0xffFF4B4B);
 }

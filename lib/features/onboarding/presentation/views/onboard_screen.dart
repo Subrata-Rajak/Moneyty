@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:moneyty/core/common/widgets.dart';
 import 'package:moneyty/core/routes/route_paths.dart';
-import 'package:moneyty/core/utils/image_paths.dart';
+import 'package:moneyty/core/utils/assets_paths.dart';
 import 'package:moneyty/src/values/string.dart';
 import 'package:moneyty/src/values/color.dart';
 import 'package:go_router/go_router.dart';

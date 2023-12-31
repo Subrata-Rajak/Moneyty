@@ -5,4 +5,5 @@ class AppRoutePaths {
   final String onboardScreenRoutePath = "/onboard_screen";
   final String loginScreenRoutePath = "/login";
   final String splashScreenRoutePath = "/splash";
+  final String registerScreenPath = "/register";
 }

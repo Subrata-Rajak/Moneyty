@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:moneyty/core/routes/routes.dart';
+import 'package:moneyty/injection_container.dart';
 import 'package:moneyty/src/themes/light.dart';
 import 'firebase_options.dart';
 
@@ -9,6 +10,7 @@ void main() async {
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
   );
+  await initDep();
   runApp(const MyApp());
 }
 
